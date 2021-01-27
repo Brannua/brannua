@@ -1,6 +1,8 @@
+![title](https://imgchr.com/i/szdHat)
+
 # 发现我
 
-我的 blog 发展史: hexo --> [csdn](https://blog.csdn.net/Brannua/) --> gitbook --> [hexo+actions](https://brannua.github.io/) --> Lark
+足迹: hexo --> [csdn](https://blog.csdn.net/Brannua/) --> gitbook --> [hexo+actions](https://brannua.github.io/) --> Lark
 
 # 联系我
 
