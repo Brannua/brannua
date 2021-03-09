@@ -4,7 +4,7 @@
 
 # 联系我
 
-- email: 374453156@qq.com
+- email: lpj8866@gmail.com
 
 - wechat: brannua9278
 
