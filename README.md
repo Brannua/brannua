@@ -8,7 +8,7 @@ May be you can benefit from my personal blog. ==> [csdn](https://blog.csdn.net/B
 
 Yet, [Lark](https://www.feishu.cn/) seems my perference at persent.
 
-### Profile
+### Tools
 
 Manjaro, Vim, Vscode and Lark.
 
