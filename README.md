@@ -2,7 +2,7 @@
 
 - I’m currently working on JavaScript.
 
-- I’m currently learning C.
+- I’m currently learning C++.
 
 - You can also find me at [csdn](https://blog.csdn.net/Brannua/).
 
