@@ -1,16 +1,13 @@
-### Hey there, I'm [lpj](https://brannua.github.io/about/) 👋
+### Hi, I'm [lpj](https://brannua.github.io/about/) 👋
 
-- I’m currently working on JavaScript.
+Preparing for the Postgraduate Entrance Exams proves the most vital goal of my own under mordern conditions.
 
-- I’m currently learning C++.
+May be you can benefit from my personal blog. ==> [csdn](https://blog.csdn.net/Brannua/)
 
-- You can also find me at [csdn](https://blog.csdn.net/Brannua/).
+Yet, Lark seems my perference at persent.
 
-##### Tools
+##### I am using
 
-![ArchLinux](https://img.shields.io/badge/-ArchLinux-black?style=flat-square&logo=linux) ![NeoVim](https://img.shields.io/badge/-NeoVim-black?style=flat-square&logo=neovim)
+Manjaro, Vim, Vscode and Lark.
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Brannua&count_private=true&include_all_commits=true&theme=gruvbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brannua&layout=compact&langs_count=8&theme=gruvbox" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brannua&layout=compact&langs_count=6" />
