@@ -1,5 +1,5 @@
-### Hi, I'm [lpj](https://brannua.github.io/about/) 👋
+### Hi, I'm lpj. 👋
 
-I am using [gitee](https://gitee.com/pj-l/).
+I am using [blog](https://brannua.github.io/)、[lark](https://www.feishu.cn/)、[csdn](https://blog.csdn.net/Brannua/) and [gitee](https://gitee.com/pj-l/).
 
-May be you can benefit from my [csdn](https://blog.csdn.net/Brannua/). Yet, [lark](https://www.feishu.cn/) and [MyBlog](https://brannua.github.io/) seems my perference at persent.
+Feel free to [ask me](https://github.com/Brannua/brannua/issues) if you have any questions.
