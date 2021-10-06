@@ -32,9 +32,10 @@
 
 #### Tools
 
+<code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/git.svg" width="24"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/vscode.svg" width="24"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/vim-gtk.svg" width="24"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/git.svg" width="24"/></code>
+<code><img src="https://gitee.com/pj-l/imgs-1/raw/master/screenShot/vue.png" width="24"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/gnu.svg" width="24"/></code>
 
 Please feel free to ask me if you have any questions.
