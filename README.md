@@ -41,4 +41,5 @@
 <code><img height="20" src="https://gitee.com/pj-l/imgs-1/raw/master/screenShot/react.png" alt="react" /></code>
 
 
+You can find me in my personal [blog](https://brannua.github.io/).</br>
 Please feel free to ask me if you have any questions.
