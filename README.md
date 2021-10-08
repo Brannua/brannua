@@ -27,8 +27,8 @@
 
 #### Platforms
 <code><img height="20" src="https://gitee.com/pj-l/imgs-1/raw/master/screenShot/gnu.svg" alt="gnu" /></code>
-<code><img height="20" src="https://gitee.com/pj-l/imgs-1/raw/master/screenShot/archlinux.png" alt="archlinux" /></code>
 <code><img height="20" src="https://gitee.com/pj-l/imgs-1/raw/master/screenShot/manjaro.svg" alt="manjaro" /></code>
+<code><img height="20" src="https://gitee.com/pj-l/imgs-1/raw/master/screenShot/archlinux.png" alt="archlinux" /></code>
 <code><img height="20" src="https://gitee.com/pj-l/imgs-1/raw/master/screenShot/windows.png" alt="windows" /></code>
 
 #### Tools
