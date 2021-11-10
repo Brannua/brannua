@@ -16,12 +16,12 @@
 
 #### Languages
 
+<code><img height="20" src="https://gitee.com/pj-l/imgs-1/raw/master/screenShot/C.svg" alt="c" /></code>
+<code><img height="20" src="https://gitee.com/pj-l/imgs-1/raw/master/screenShot/c++.png" alt="c++" /></code>
 <code><img height="20" src="https://gitee.com/pj-l/imgs-1/raw/master/screenShot/html.png" alt="html" /></code>
 <code><img height="20" src="https://gitee.com/pj-l/imgs-1/raw/master/screenShot/css.png" alt="css" /></code>
 <code><img height="20" src="https://gitee.com/pj-l/imgs-1/raw/master/screenShot/javascript.png" alt="js" /></code>
 <code><img height="20" src="https://gitee.com/pj-l/imgs-1/raw/master/screenShot/nodejs.png" alt="nodejs" /></code>
-<code><img height="20" src="https://gitee.com/pj-l/imgs-1/raw/master/screenShot/C.svg" alt="c" /></code>
-<code><img height="20" src="https://gitee.com/pj-l/imgs-1/raw/master/screenShot/c++.png" alt="c++" /></code>
 
 <a href="https://github.com/Brannua"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Brannua&count_private=true&show_icons=true"/></a>
 
