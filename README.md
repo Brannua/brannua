@@ -42,4 +42,4 @@
 
 
 You can find me in my personal [website](https://brannua.github.io/).</br>
-Please feel free to ask me if you have any questions.
+Feel free to ask me if you have any questions.
