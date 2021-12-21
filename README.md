@@ -40,6 +40,6 @@
 <code><img height="20" src="https://gitee.com/pj-l/imgs-1/raw/master/screenShot/vue.png" alt="vue" /></code>
 <code><img height="20" src="https://gitee.com/pj-l/imgs-1/raw/master/screenShot/react.png" alt="react" /></code>
 
-
 You can find me in my personal [website](https://brannua.github.io/).</br>
+My spare code hosting platforms: [Gitee](https://gitee.com/pj-l/).</br>
 Feel free to ask me if you have any questions.
