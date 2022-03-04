@@ -1,4 +1,4 @@
-### Hi 👋, I'm [lpj](https://brannua.github.io/about/)( 夏与冬，Brannua ).
+### Hi 👋, I'm [lpj](https://brannua.github.io/about/)( Brannua，夏与冬 ).
 
 ```html
 <script src="puYang-heNan-China" type="boy"></script>
