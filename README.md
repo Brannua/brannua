@@ -1,17 +1,17 @@
 ### Hi 👋, I'm [lpj](https://brannua.github.io/about/)( Brannua，夏与冬 ).
 
 ```html
-<script src="puYang-heNan-China" type="boy"></script>
+<script type="♂️" src="🇨🇳"></script>
 <script>
   
-  let myLife = (love) => {
-    while (knowledge++) {
-      this.curiosity++;
-      love++;
+  let life = (param) => {
+    while (📖 ++) {
+      this.curiosity ++;
+      param ++;
     }
   }
 
-  me.load().life(love);
+  👦.load().life(❤️);
 
 </script>
 ```
