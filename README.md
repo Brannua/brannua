@@ -1,21 +1,7 @@
-### Hi 👋, I'm [lpj](https://brannua.github.io/about/)( Brannua，夏与冬 ).
+### Welcome to my home page 👋
 
-```html
-<script type="♂️" src="🇨🇳"></script>
-<script>
-  
-  let life = (param) => {
-    while (📖 ++) {
-      this.curiosity ++;
-      param ++;
-    }
-  }
+I'm a learner of computer science who is living in mainland of China and you can get some knowledge from my personal [Wiki](https://liupj.top/).
 
-  👦.load().life(❤️);
+Besides, you can probably feel free to ask me about anything [here](https://github.com/Brannua/brannua/issues/).
 
-</script>
-```
-
-<a href="https://github.com/Brannua"><img src="https://github-readme-stats.vercel.app/api?username=Brannua&count_private=true&show_icons=true"/></a>
-
-- 💬 Be free to ask me about anything [here](https://github.com/Brannua/brannua/issues).
+—— Peijie Liu.
