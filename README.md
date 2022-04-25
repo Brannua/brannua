@@ -1,4 +1,4 @@
-### Welcome to my home page 👋
+### About me
 
 I'm a learner of computer science who is living in mainland of China and you can get some knowledge from my personal [Wiki](https://liupj.top/).
 
