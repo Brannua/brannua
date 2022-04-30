@@ -1,3 +1,3 @@
 ### About me
 
-See [here](http://liupj.top/Homepage/)
+See [here](http://liupj.top/homepage/)
