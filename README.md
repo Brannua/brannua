@@ -7,7 +7,7 @@
 
 ---
 
-### Ask myself four questions every day
+### Ask yourself four questions every day !
 
 1. Did you do it alone ?
 
