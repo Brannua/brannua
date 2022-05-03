@@ -1,18 +1,18 @@
 
-### Welcome
+### 欢迎来到我的 Github 主页
 
-You can visit my [homepage](https://liupj.top/academy/) or my [wiki](https://liupj.top/) to get more information.
+- 你可以访问我的[学术主页](https://liupj.top/academy/)或[维基站点](https://liupj.top/)来获得更多信息
 
-Be free to ask me about anything [here](https://github.com/Brannua/brannua/issues/).
+- 你也可以在[这里](https://github.com/Brannua/brannua/issues/)向我提问与我交流
 
 ### 吾日三省吾身
 
-1. 真的理解并测试了你写的每一行代码保证不出错吗 ？
+1. 真的理解并测试了每一行代码确保正确吗 ？
 
-2. 给你的代码编写了详细的文档了吗 ？
+2. 给代码编写了详细的配套文档了吗 ？
 
 3. 你是独立完成的吗 ？
 
 ---
 
-> 认清现实，放弃幻想 ！少抱怨，多吃苦 ！
+> 放弃~幻想~，**认清现实 ！** 少~抱怨~，**多吃苦 ！**
