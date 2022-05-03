@@ -22,3 +22,5 @@
 ~阅读别人的心得总结或所谓的攻略~都是在投机取巧
 
 只有不断**吃苦头**磨练自己才能快速成长 ！
+
+![cs-hierarchy](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/mass/cs-hierarchy.jpg)
