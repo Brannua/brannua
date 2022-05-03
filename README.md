@@ -25,4 +25,4 @@
 
 ![cs-hierarchy](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/mass/cs-hierarchy.jpg)
 
-> 此图版权归南京大学所有
+> 此图版权归南京大学计算机科学与技术系所有
