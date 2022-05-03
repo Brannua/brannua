@@ -24,3 +24,5 @@
 只有不断**吃苦头**磨练自己才能快速成长 ！
 
 ![cs-hierarchy](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/mass/cs-hierarchy.jpg)
+
+> 此图版权归南京大学所有
