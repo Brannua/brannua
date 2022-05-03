@@ -1,7 +1,7 @@
 
 ### Welcome to my GitHub homepage !
 
-- You can visit [my_academic_homepage](https://liupj.top/academy/) or [my_wiki site](https://liupj.top/) for more information.
+- You can visit [my_academic_homepage](https://liupj.top/academy/) or [my_wiki_site](https://liupj.top/) for more information.
 
 - You can also ask me questions and communicate with me at [here](https://github.com/Brannua/brannua/issues/).
 
