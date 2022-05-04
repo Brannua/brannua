@@ -23,6 +23,8 @@
 
 Only by constantly suffering and honing yourself can you grow rapidly !
 
+> Transformation of computer system abstraction layer.
+
 ![cs-hierarchy](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/mass/cs-hierarchy.jpg)
 
 > The copyright of this picture belongs to the Department of computer science and technology of Nanjing University.
