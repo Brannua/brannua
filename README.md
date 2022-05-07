@@ -1,7 +1,7 @@
 
 ### Hi folks, <img width="20" src="https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/mass/hi.gif" /> welcome to my homepage of GitHub.
 
-- You can visit [my_academic_homepage](https://liupj.top/academy/) or [my_wiki_site](https://liupj.top/) for more information.
+- You can visit [my_wiki_site](https://liupj.top/) for more information.
 
 - You can also ask me questions and communicate with me at [here](https://github.com/Brannua/brannua/issues/).
 
