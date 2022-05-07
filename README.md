@@ -1,5 +1,5 @@
 
-### Welcome to my GitHub homepage !
+### Hi folks, welcome to my homepage of GitHub.
 
 - You can visit [my_academic_homepage](https://liupj.top/academy/) or [my_wiki_site](https://liupj.top/) for more information.
 
