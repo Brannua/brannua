@@ -13,7 +13,7 @@
 
 2. Do you really understand and tested each line of your code to ensure its correctness ?
 
-3. Have you written detailed supporting documents for the code ?
+3. Does your code have been well documented ?
 
 4. Can it be better ?
 
