@@ -3,7 +3,7 @@
 
 If you want to ask me some questions or communicate with me, please feeling free to access [here](https://github.com/Brannua/brannua/issues/).
 
-Besides, you can probably visit [my_wiki_site](https://liupj.top/) for more information.
+Besides, you can probably visit [my webpage](https://liupj.top/) for more information.
 
 ---
 
