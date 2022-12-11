@@ -1,5 +1,5 @@
 
-### Hi folks, <img width="20" src="https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/mass/hi.gif" /> welcome to my homepage of GitHub.
+### Hi, you guys ! <img width="20" src="https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/mass/hi.gif" /> welcome to my homepage of GitHub.
 
 If you want to ask me some questions or communicate with me, please feeling free to access [here](https://github.com/Brannua/brannua/issues/).
 
