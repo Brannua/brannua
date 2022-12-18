@@ -7,5 +7,5 @@ If you want to communicate with me, access [here](https://github.com/Brannua/bra
 
 ### Some notes
 
-计算机入门课：https://cs-notes-lpj.github.io/crash-course-cs/#/
+计算机硬件知识：https://cs-notes-lpj.github.io/crash-course-cs/#/
 
