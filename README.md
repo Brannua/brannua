@@ -1,6 +1,6 @@
 
-### Welcome !
+### Hello~
 
 My website: https://liupj.top
 
-If you want to communicate with me, access [here](https://github.com/Brannua/brannua/issues/)
+You can access [here](https://github.com/Brannua/brannua/issues/) to communicate with me.
